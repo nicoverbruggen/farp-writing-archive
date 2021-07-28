@@ -16,6 +16,7 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 
 * [Description, Dialogue and Action](./01-general-writing/01-description-dialogue-and-action.md) by Jessica Barnes
 * [Acquiring Feedback](./01-general-writing/02-acquiring-feedback.md) by Rachel sharon edidin
+* [The Deception of Description](./01-general-writing/03-the-deception-of-description.md) by Erin M. Evans
 
 ## Disclaimer
 
