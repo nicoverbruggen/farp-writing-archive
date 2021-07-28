@@ -10,6 +10,13 @@ Since Elfwood had been around for a while, the styling of these tutorials were a
 
 The basis for the archival is [this snapshot](https://web.archive.org/web/20110723091424/http://www.elfwood.com/farp/writing-tutorials.html) from archive.org.
 
+## Contents
+
+### General Writing
+
+* [Description, Dialogue and Action](./01-general-writing/01-description-dialogue-and-action.md) by Jessica Barnes
+* [Acquiring Feedback](./01-general-writing/02-acquiring-feedback.md) by Rachel sharon edidin
+
 ## Disclaimer
 
 The collection of art and writing tutorials in the Elfwood Fantasy Art Resource (F.A.R.P.) is a part of Elfwood.
