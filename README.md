@@ -18,6 +18,8 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 * [Acquiring Feedback](./01-general-writing/02-acquiring-feedback.md) by Rachel sharon edidin
 * [The Deception of Description](./01-general-writing/03-the-deception-of-description.md) by Erin M. Evans
 * [Breaking Your Mental Blockers](./01-general-writing/04-breaking-your-mental-blockers.md) by Nfoster
+* [Originality in fiction](./01-general-writing/05-originality-in-fiction.md) by A.R. George
+
 
 ## Disclaimer
 
