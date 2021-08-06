@@ -20,6 +20,7 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 * [Breaking Your Mental Blockers](./01-general-writing/04-breaking-your-mental-blockers.md) by Nfoster
 * [Originality in Fantasy](./01-general-writing/05-originality-in-fantasy.md) by A.R. George
 * [Writing in English as a Foreign Language](./01-general-writing/06-writing-in-english-as-a-foreign-language.md) by Inger Marie Hognestad
+* [Writing Action Scenes](./01-general-writing/07-writing-action-scenes.md) by S. B. 'Kinko' Hulsey
 
 ## Disclaimer
 
