@@ -22,6 +22,7 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 * [Writing in English as a Foreign Language](./01-general-writing/06-writing-in-english-as-a-foreign-language.md) by Inger Marie Hognestad
 * [Writing Action Scenes](./01-general-writing/07-writing-action-scenes.md) by S. B. 'Kinko' Hulsey
 * [Narration on Narration](./01-general-writing/08-narration-on-narration.md) by Melheim
+* [Developing a Strong Authorial Voice](./01-general-writing/09-developing-a-strong-authorial-voice.md) by Nicholas
 
 ## Disclaimer
 

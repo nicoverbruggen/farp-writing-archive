@@ -1,7 +1,7 @@
 ---
 title: Narration on Narration
 author: Melheim
-archive: https://web.archive.org/web/20110723091424/http://www.elfwood.com/farp/writing-tutorials.html
+archive: https://web.archive.org/web/20110109210644/http://www.elfwood.com/farp/thewriting/nar/nar.html
 ---
 
 # Narration on Narration
