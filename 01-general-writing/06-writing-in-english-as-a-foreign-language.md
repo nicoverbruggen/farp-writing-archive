@@ -28,7 +28,7 @@ Example:
 
 Sentence with German wording:
 
-    900 years old I am, but still defeat you I can. (Quote: Yoda from Star Wars)
+> 900 years old I am, but still defeat you I can. (Quote: Yoda from Star Wars)
 
 As a general rule the verb comes at the end of the sentence while the reader has to rely on the case form of the noun to determine which one is the subject and the object.
 
@@ -60,7 +60,7 @@ Needless to say, you'll get into big trouble if you start taking such phrases at
 
 The flip side of this coin (yes, that was an idiomatic expression) is the problem of recognizing your own idioms. You can make some funny mistakes by assuming the idiomatic expressions from your native language will translate into English. They might do, again this depends on how closely related the languages are, but never assume. An example from my own writing:
 
-    "As it were, the room looked like somebody had sprayed a crowd on the walls, ceiling and floor, without giving thought to up and down, any logic, or sense of order. Which, when all came to all, was a good description of how null gravity played havoc with your directional senses, Sara thought."
+> "As it were, the room looked like somebody had sprayed a crowd on the walls, ceiling and floor, without giving thought to up and down, any logic, or sense of order. Which, when all came to all, was a good description of how null gravity played havoc with your directional senses, Sara thought."
 
 My error is the phrase 'when all came to all'. This is not a translation as much as a transliteration, i.e. a direct transition of a phrase into another language (or a direct transition of the letters of a word into a different alphabet). Elfwood writer Stephen Doyle pointed out to me that an American would say, 'When all was said and done.' As English and Norwegian are closely related, the phrase 'when all came to all' could perhaps be used in English without attracting too much attention, but others can't.
 
@@ -70,9 +70,9 @@ Another variety of the problem with idiomatic expressions is the use of proverbs
 
 English 'transliteration' of Norwegian proverbs, then the corresponding English proverb:
 
-    Don't sell the fur before the bear is shot. -> Don't count your chickens before they are hatched.
-    Better beware ahead, than hurry after. -> One stitch in time saves nine, or Better safe than sorry.
-    The more cooks, the more mess. -> Too many cooks spoil the broth.
+> Don't sell the fur before the bear is shot. -> Don't count your chickens before they are hatched.
+> Better beware ahead, than hurry after. -> One stitch in time saves nine, or Better safe than sorry.
+> The more cooks, the more mess. -> Too many cooks spoil the broth.
 
 Again, the only way to avoid making these mistakes while still using proverbs in your writing is to take special note of proverbs when you encounter them in your readings. Usually you won't find them in dictionaries, and sometimes you won't even recognize them as proverbs if your native language doesn't have any corresponding expressions. 
 
