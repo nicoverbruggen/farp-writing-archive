@@ -26,6 +26,12 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 * [Building Stronger Story Themes](./01-general-writing/10-building-stronger-story-themes.md) by Timothy Pontious
 * [On Teen Writing](./01-general-writing/11-on-teen-writing.md) by Elisabeth A. Wilhelm
 * [Writing a Story, Painting a Masterpiece](./01-general-writing/12-writing-a-story-painting-a-masterpiece.md) by Jessica Ng
+
+### Creating a Story & Character
+
+* [Writing Lycanthropy](./02-creating-a-story-character/01-writing-lycanthropy.md) by Jeff Burke
+* [Villains: *Bad* Bad Guys and *Good* Bad Guys](./02-creating-a-story-character/01-villains.md) by A.R. George
+
 ## Disclaimer
 
 The collection of art and writing tutorials in the Elfwood Fantasy Art Resource (F.A.R.P.) is a part of Elfwood.
