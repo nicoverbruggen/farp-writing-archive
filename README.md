@@ -30,7 +30,9 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 ### Creating a Story & Character
 
 * [Writing Lycanthropy](./02-creating-a-story-character/01-writing-lycanthropy.md) by Jeff Burke
-* [Villains: *Bad* Bad Guys and *Good* Bad Guys](./02-creating-a-story-character/01-villains.md) by A.R. George
+* [Villains: *Bad* Bad Guys and *Good* Bad Guys](./02-creating-a-story-character/02-villains.md) by A.R. George
+* [Creating an Original Character](./02-creating-a-story-character/03-creating-an-original-character.md) by Maisha Foster-O'Neal
+* [Character Creation Form](./02-creating-a-story-character/04-character-creation-form.md) by Crissy Gottberg
 
 ## Disclaimer
 
