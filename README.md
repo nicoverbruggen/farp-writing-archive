@@ -34,6 +34,10 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 * [Creating an Original Character](./02-creating-a-story-character/03-creating-an-original-character.md) by Maisha Foster-O'Neal
 * [Character Creation Form](./02-creating-a-story-character/04-character-creation-form.md) by Crissy Gottberg
 
+### Setting
+
+* [Creating Worlds](./03-creating-worlds/01-creating-worlds.md) by Emma Lydia Bates
+
 ## Disclaimer
 
 The collection of art and writing tutorials in the Elfwood Fantasy Art Resource (F.A.R.P.) is a part of Elfwood.
