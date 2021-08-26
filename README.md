@@ -39,6 +39,7 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 * [Creating Worlds](./03-creating-worlds/01-creating-worlds.md) by Emma Lydia Bates
 * [The Seed of Government - Part 1](./03-creating-worlds/02-the-seed-of-government-pt1.md) by Crissy Gottberg
 * [The Seed of Government - Part 2](./03-creating-worlds/03-the-seed-of-government-pt2.md) by Crissy Gottberg
+* [10 Steps to Creating Realistic Fantasy Animals](./03-creating-worlds/04-ten-steps-fantasy-animals.md) by Ashley Lange
 
 ## Disclaimer
 
