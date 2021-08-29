@@ -41,6 +41,11 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 * [The Seed of Government - Part 2](./03-creating-worlds/03-the-seed-of-government-pt2.md) by Crissy Gottberg
 * [10 Steps to Creating Realistic Fantasy Animals](./03-creating-worlds/04-ten-steps-fantasy-animals.md) by Ashley Lange
 
+#### Creating Science-Fiction & Fantasy Worlds by Michael James Liljenberg
+
+* [Introduction](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/00-intro.md)
+* [Chapter 1: Theology](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/01-theology.md)
+
 ## Disclaimer
 
 The collection of art and writing tutorials in the Elfwood Fantasy Art Resource (F.A.R.P.) is a part of Elfwood.
