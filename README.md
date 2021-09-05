@@ -45,6 +45,9 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 
 * [Introduction](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/00-intro.md)
 * [Chapter 1: Theology](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/01-theology.md)
+* [Chapter 2: Physics](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/02-physics.md)
+* [Chapter 3: Weather](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/03-weather.md)
+* [Chapter 4: Geology & Botany](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/04-geo.md)
 
 ## Disclaimer
 

@@ -1,5 +1,5 @@
 ---
-title: "Day 1: Let There Be Light: Physics"
+title: "Chapter 2: Let There Be Light: Physics"
 author: Michael James Liljenberg
 archive: https://web.archive.org/web/20120117201129/http://www.elfwood.com/farp/thewriting/liljenbergworlds/liljenbergworlds.html
 ---

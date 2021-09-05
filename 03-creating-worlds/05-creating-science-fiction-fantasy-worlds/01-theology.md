@@ -1,5 +1,5 @@
 ---
-title: "Day 0: In the Beginning God: Theology"
+title: "Chapter 1: In the Beginning God: Theology"
 author: Michael James Liljenberg
 archive: https://web.archive.org/web/20120117201129/http://www.elfwood.com/farp/thewriting/liljenbergworlds/liljenbergworlds.html
 ---
