@@ -48,6 +48,9 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 * [Chapter 2: Physics](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/02-physics.md)
 * [Chapter 3: Weather](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/03-weather.md)
 * [Chapter 4: Geology & Botany](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/04-geo.md)
+* [Chapter 5: Astronomy & Time](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/05-astronomy.md)
+* [Chapter 6: Biology](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/06-zoology.md)
+* [Chapter 7: Anthropology](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/07-anthropology.md)
 
 ## Disclaimer
 
