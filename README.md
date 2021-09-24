@@ -52,6 +52,9 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 * [Chapter 6: Biology](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/06-zoology.md)
 * [Chapter 7: Anthropology](./03-creating-worlds/05-creating-science-fiction-fantasy-worlds/07-anthropology.md)
 
+* [On the Creation of Languages](./03-creating-worlds/06-on-the-creation-of-languages.md) by Kathleen McGowan
+* [Creating Effective Pantheons](./03-creating-worlds/07-creating-effective-pantheons.md) by Sarah N. Snyder
+
 ## Disclaimer
 
 The collection of art and writing tutorials in the Elfwood Fantasy Art Resource (F.A.R.P.) is a part of Elfwood.
