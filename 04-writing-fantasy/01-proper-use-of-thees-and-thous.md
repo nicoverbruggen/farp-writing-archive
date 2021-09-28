@@ -4,7 +4,6 @@ author: S. Kocurova
 archive: https://web.archive.org/web/20130204225547/http://www.elfwood.com/farp/thewriting/glarchthou/glarchthou.html
 ---
 
-
 # 'Thou' in Archaic Grammar
 
 ## Introduction
