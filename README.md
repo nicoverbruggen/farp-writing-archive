@@ -59,6 +59,12 @@ The basis for the archival is [this snapshot](https://web.archive.org/web/201107
 
 * [Proper Use of Thees and Thous](./04-writing-fantasy/01-proper-use-of-thees-and-thous.md) by S. Kocurova
 
+### Poetry
+
+* [Rhyming in Poetry](./05-poetry/01-rhyming-in-poetry.md) by Brian Buckley
+* [Poetic Forms](./05-poetry/02-poetic-forms.md) by Brian Buckley
+* [Writing Stories in Verse](./05-poetry/03-writing-stories-in-verse.md) by Aubra Penner
+
 ## Disclaimer
 
 The collection of art and writing tutorials in the Elfwood Fantasy Art Resource (F.A.R.P.) is a part of Elfwood.
